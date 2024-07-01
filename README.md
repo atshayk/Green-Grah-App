@@ -1,3 +1,3 @@
-# Green-Grah-App
+# Green Grah App
 
 ## Purpose
