@@ -1,3 +1,3 @@
 # Green Grah App
 
-## Purpose
+(To be updated soon)
